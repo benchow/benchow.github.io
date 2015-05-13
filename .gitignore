@@ -1,0 +1,11 @@
+bin
+build
+include
+lib
+.Python
+*.pyc
+*.pyo
+.DS_Store
+local_settings.py
+src
+celerybeat-schedule

@@ -154,7 +154,6 @@ header .navbar-default.scrolled ul.navbar-nav {
 }
 .hanging-phone {
   position: relative;
-  left: 15px;
   z-index: 0;
   bottom: -50px;
   text-align: center;
@@ -414,6 +413,9 @@ section#demo iframe {
   border: none;
 }
 */ 
+.container-fluid {
+  max-width:900px;
+}
 
 /* Get app Section */
 section#getApp {
